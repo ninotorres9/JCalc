@@ -1,17 +1,8 @@
 #JCalc
 
-需要安装antlr4
-通过build.ps1启动
 
+./build 生成代码至output
+./clear 清除output内生成文件
+./test 测试
 
-如何启动计算器？？？
-
-java Main.java 启动
-
-应该把启动集成
-
-
-
-将源代码和生成代码分开
-
-脚本也分开
+生成后在output文件下执行 java MainVisit

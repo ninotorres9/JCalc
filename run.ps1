@@ -1,1 +1,0 @@
-java -classpath ./output/MainVisit
